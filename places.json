@@ -1,14 +1,352 @@
 [
     {
-      "id": 1,
-      "name": "Pantai Kuta",
-      "photo": "images/kuta.jpg",
-      "description": "Pantai populer di Bali dengan pasir putih dan ombak yang indah."
+        "id": 1,
+        "nama": "Taman Nasional Bromo Tengger Semeru",
+        "alamat": "Desa Ngadisari, Sukapura, Probolinggo, Jawa Timur, Indonesia",
+        "deskripsi": "Taman Nasional Bromo Tengger Semeru adalah kawasan konservasi alam yang terkenal dengan keindahan gunung dan lautan pasirnya. Gunung Bromo menjadi daya tarik utama dengan pemandangan matahari terbit yang spektakuler.",
+        "foto": "image/bromo.jpg"
     },
     {
-      "id": 2,
-      "name": "Candi Borobudur",
-      "photo": "images/borobudur.jpeg",
-      "description": "Candi Buddha terbesar di dunia, terletak di Magelang, Jawa Tengah."
+        "id": 2,
+        "nama": "Candi Borobudur",
+        "alamat": "Magelang, Jawa Tengah, Indonesia",
+        "deskripsi": "Candi Borobudur adalah candi Buddha terbesar di dunia, terletak di dataran tinggi Jawa Tengah. Candi ini terkenal dengan reliefnya yang indah dan arsitektur megahnya.",
+        "foto": "image/borobudur.jpg"
+    },
+    {
+        "id": 3,
+        "nama": "Pantai Kuta",
+        "alamat": "Kuta, Badung, Bali, Indonesia",
+        "deskripsi": "Pantai Kuta adalah salah satu pantai terkenal di Bali yang terkenal dengan ombaknya yang cocok untuk berselancar. Selain itu, pantai ini juga menawarkan pemandangan matahari terbenam yang memukau.",
+        "foto": "image/kuta.jpg"
+    },
+    {
+        "id": 4,
+        "nama": "Danau Toba",
+        "alamat": "Sumatera Utara, Indonesia",
+        "deskripsi": "Danau Toba adalah danau vulkanik terbesar di dunia, terletak di Sumatera Utara. Pulau Samosir di tengah danau menambah pesona alam dan budaya yang khas.",
+        "foto": "image/toba.jpg"
+    },
+    {
+        "id": 5,
+        "nama": "Pulau Komodo",
+        "alamat": "Labuan Bajo, Nusa Tenggara Timur, Indonesia",
+        "deskripsi": "Pulau Komodo terkenal sebagai rumah bagi komodo, kadal terbesar di dunia. Selain itu, pulau ini menawarkan keindahan bawah laut yang memukau bagi para penyelam.",
+        "foto": "image/komodo.jpg"
+    },
+    {
+        "id": 6,
+        "nama": "Goa Gong",
+        "alamat": "Pacitan, Jawa Timur, Indonesia",
+        "deskripsi": "Goa Gong adalah gua dengan formasi stalaktit dan stalagmit yang indah. Terkenal dengan keunikan suara 'gong' yang dihasilkan ketika stalaktit disentuh.",
+        "foto": "image/goagong.jpg"
+    },
+    {
+        "id": 7,
+        "nama": "Pulau Weh",
+        "alamat": "Sabang, Aceh, Indonesia",
+        "deskripsi": "Pulau Weh terletak di ujung barat Indonesia dan merupakan surga bagi penyelam. Terumbu karangnya yang indah dan keanekaragaman hayati laut membuatnya destinasi yang populer.",
+        "foto": "image/pulauweh.jpg"
+    },
+    {
+        "id": 8,
+        "nama": "Pantai Pink",
+        "alamat": "Labuan Bajo, Nusa Tenggara Timur, Indonesia",
+        "deskripsi": "Pantai Pink adalah pantai dengan pasir berwarna pink yang langka. Terletak di Pulau Komodo, pantai ini menawarkan pemandangan yang memesona.",
+        "foto": "image/pantai-pink.jpg"
+    },
+    {
+        "id": 9,
+        "nama": "Candi Prambanan",
+        "alamat": "Sleman, Yogyakarta, Indonesia",
+        "deskripsi": "Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia. Candi ini terkenal dengan arsitektur yang megah dan relief kisah Ramayana.",
+        "foto": "image/prambanan.jpg"
+    },
+    {
+        "id": 10,
+        "nama": "Pantai Tanjung Bira",
+        "alamat": "Bulukumba, Sulawesi Selatan, Indonesia",
+        "deskripsi": "Pantai Tanjung Bira dikenal dengan pasir putihnya yang lembut dan air laut yang jernih. Lokasi ini cocok untuk bersantai dan menikmati keindahan laut.",
+        "foto": "image/tanjungbira"
+    },
+    {
+        "id": 11,
+        "nama": "Pulau Seribu",
+        "alamat": "Kepulauan Seribu, Jakarta, Indonesia",
+        "deskripsi": "Pulau Seribu adalah gugusan pulau di lepas pantai Jakarta yang terkenal dengan keindahan pantai, terumbu karang, dan kegiatan wisata bahari.",
+        "foto": "image/pulau-seribu.jpg"
+    },
+    {
+        "id": 12,
+        "nama": "Candi Mendut",
+        "alamat": "Magelang, Jawa Tengah, Indonesia",
+        "deskripsi": "Candi Mendut adalah candi Buddha yang terletak tidak jauh dari Candi Borobudur. Candi ini memiliki arca Buddha besar di dalamnya.",
+        "foto": "image/mendut.jpg"
+    },
+    {
+        "id": 13,
+        "nama": "Pulau Ora",
+        "alamat": "Maluku, Indonesia",
+        "deskripsi": "Pulau Ora terkenal dengan pasir putihnya dan air laut yang jernih. Tempat ini merupakan destinasi yang cocok untuk berlibur dan menyelam.",
+        "foto": "image/pulau-ora.jpg"
+    },
+    {
+        "id": 14,
+        "nama": "Air Terjun Tumpak Sewu",
+        "alamat": "Lumajang, Jawa Timur, Indonesia",
+        "deskripsi": "Air Terjun Tumpak Sewu adalah salah satu air terjun tertinggi di Jawa Timur. Keindahan alam sekitar membuatnya menjadi tempat yang populer untuk hiking.",
+        "foto": "image/tumpak-sewu.jpg"
+    },
+    {
+        "id": 15,
+        "nama": "Pantai Parangtritis",
+        "alamat": "Bantul, Yogyakarta, Indonesia",
+        "deskripsi": "Pantai Parangtritis terkenal dengan pasir hitamnya dan legenda nyi Roro Kidul. Pantai ini menjadi tujuan wisata populer di Yogyakarta.",
+        "foto": "image/parangtritis.jpg"
+    },
+    {
+        "id": 16,
+        "nama": "Gunung Rinjani",
+        "alamat": "Lombok, Nusa Tenggara Barat, Indonesia",
+        "deskripsi": "Gunung Rinjani adalah gunung berapi tertinggi kedua di Indonesia. Pendakian ke puncaknya menawarkan pemandangan alam yang menakjubkan.",
+        "foto": "image/rinjani.jpg"
+    },
+    {
+        "id": 17,
+        "nama": "Pulau Morotai",
+        "alamat": "Maluku Utara, Indonesia",
+        "deskripsi": "Pulau Morotai terkenal dengan keindahan bawah lautnya dan merupakan surga bagi penyelam. Terumbu karangnya yang indah menarik perhatian wisatawan.",
+        "foto": "image/morotai.jpg"
+    },
+    {
+        "id": 18,
+        "nama": "Candi Sukuh",
+        "alamat": "Karanganyar, Jawa Tengah, Indonesia",
+        "deskripsi": "Candi Sukuh adalah candi Hindu dengan arsitektur unik dan relief yang menarik. Terletak di lereng Gunung Lawu.",
+        "foto": "image/sukuh.jpg"
+    },
+    {
+        "id": 19,
+        "nama": "Pulau Sumba",
+        "alamat": "Sumba, Nusa Tenggara Timur, Indonesia",
+        "deskripsi": "Pulau Sumba terkenal dengan budaya dan tradisi yang khas. Keindahan pantainya juga menjadi daya tarik bagi wisatawan.",
+        "foto": "image/sumba.jpg"
+    },
+    {
+        "id": 20,
+        "nama": "Air Terjun Madakaripura",
+        "alamat": "Probolinggo, Jawa Timur, Indonesia",
+        "deskripsi": "Air Terjun Madakaripura adalah air terjun tertinggi di Jawa Timur dan dikelilingi oleh tebing-tebing tinggi. Tempat ini cocok untuk pecinta alam dan petualang.",
+        "foto": "image/madakaripura.jpg"
+    },
+    {
+        "id": 21,
+        "nama": "Pulau Bunaken",
+        "alamat": "Bunaken, Sulawesi Utara, Indonesia",
+        "deskripsi": "Pulau Bunaken terkenal dengan keindahan bawah lautnya. Terumbu karangnya yang indah membuatnya menjadi destinasi snorkeling dan diving yang populer.",
+        "foto": "image/bunaken.jpg"
+    },
+    {
+        "id": 22,
+        "nama": "Kawah Ijen",
+        "alamat": "Banyuwangi, Jawa Timur, Indonesia",
+        "deskripsi": "Kawah Ijen terkenal dengan fenomena blue fire yang langka. Gunung berapi ini juga memiliki danau asam dengan pemandangan yang menakjubkan.",
+        "foto": "image/ijen.jpg"
+    },
+    {
+        "id": 23,
+        "nama": "Pantai Papuma",
+        "alamat": "Jember, Jawa Timur, Indonesia",
+        "deskripsi": "Pantai Papuma terkenal dengan pasir putihnya yang lembut dan bebatuan karang yang unik. Pantai ini menyajikan pemandangan matahari terbit yang indah.",
+        "foto": "image/papuma.jpg"
+    },
+    {
+        "id": 24,
+        "nama": "Danau Ranau",
+        "alamat": "Lampung, Sumatera, Indonesia",
+        "deskripsi": "Danau Ranau adalah danau terbesar di Sumatera dengan pemandangan alam yang menawan. Tempat ini cocok untuk kegiatan rekreasi dan piknik.",
+        "foto": "image/ranau.jpg"
+    },
+    {
+        "id": 25,
+        "nama": "Bukit Teletubbies",
+        "alamat": "Dieng, Jawa Tengah, Indonesia",
+        "deskripsi": "Bukit Teletubbies di Dieng terkenal dengan lembah hijau dan bentuk bukit yang unik seperti di dalam film Teletubbies.",
+        "foto": "image/teletubbies.jpg"
+    },
+    {
+        "id": 26,
+        "nama": "Pulau Derawan",
+        "alamat": "Berau, Kalimantan Timur, Indonesia",
+        "deskripsi": "Pulau Derawan adalah surganya penyelam dengan keindahan terumbu karang dan penyu-penyu yang berkeliaran di sekitarnya.",
+        "foto": "image/derawan.jpg"
+    },
+    {
+        "id": 27,
+        "nama": "Kepulauan Togean",
+        "alamat": "Sulawesi Tengah, Indonesia",
+        "deskripsi": "Kepulauan Togean adalah destinasi wisata kepulauan yang menawarkan pantai cantik, terumbu karang, dan kehidupan laut yang beragam.",
+        "foto": "image/togean.jpg"
+    },
+    {
+        "id": 28,
+        "nama": "Candi Ratuboko",
+        "alamat": "Yogyakarta, Indonesia",
+        "deskripsi": "Candi Ratuboko adalah situs arkeologi dengan pemandangan keraton yang megah dan arsitektur candi yang indah.",
+        "foto": "image/ratuboko.jpg"
+    },
+    {
+        "id": 29,
+        "nama": "Pantai Maluk",
+        "alamat": "Sumbawa, Nusa Tenggara Barat, Indonesia",
+        "deskripsi": "Pantai Maluk terkenal dengan ombaknya yang cocok untuk berselancar. Pasir putihnya dan pemandangan laut yang indah menarik para pengunjung.",
+        "foto": "image/maluk.jpg"
+    },
+    {
+        "id": 30,
+        "nama": "Air Terjun Coban Rondo",
+        "alamat": "Malang, Jawa Timur, Indonesia",
+        "deskripsi": "Air Terjun Coban Rondo adalah air terjun yang terletak di kawasan Pujon, Malang. Keindahan alam sekitarnya menarik wisatawan untuk berkunjung.",
+        "foto": "image/cobanrondo.jpg"
+    },
+    {
+        "id": 31,
+        "nama": "Pulau Sikuai",
+        "alamat": "Padang, Sumatera Barat, Indonesia",
+        "deskripsi": "Pulau Sikuai dikenal dengan keindahan pantainya yang eksotis dan suasana yang tenang. Cocok untuk liburan santai.",
+        "foto": "image/sikuai.jpg"
+    },
+    {
+        "id": 32,
+        "nama": "Gunung Merapi",
+        "alamat": "Yogyakarta, Jawa Tengah, Indonesia",
+        "deskripsi": "Gunung Merapi adalah salah satu gunung berapi aktif di Indonesia. Pendakian ke puncaknya menawarkan pemandangan luar biasa.",
+        "foto": "image/merapi.jpg"
+    },
+    {
+        "id": 33,
+        "nama": "Pantai Tengah",
+        "alamat": "Senggigi, Lombok, Nusa Tenggara Barat, Indonesia",
+        "deskripsi": "Pantai Tengah adalah bagian dari pantai yang indah di Senggigi. Pasir putih dan ombak tenang menjadikannya tempat yang ideal untuk bersantai.",
+        "foto": "image/tengah.jpg"
+    },
+    {
+        "id": 34,
+        "nama": "Danau Kelimutu",
+        "alamat": "Ende, Nusa Tenggara Timur, Indonesia",
+        "deskripsi": "Danau Kelimutu terkenal dengan tiga danau berwarna yang unik. Setiap danau memiliki warna yang berbeda-beda.",
+        "foto": "image/kelimutu.jpg"
+    },
+    {
+        "id": 35,
+        "nama": "Pulau Menjangan",
+        "alamat": "Bali, Indonesia",
+        "deskripsi": "Pulau Menjangan merupakan bagian dari Taman Nasional Bali Barat. Pulau ini terkenal dengan keindahan bawah lautnya yang sangat kaya akan terumbu karang.",
+        "foto": "image/menjangan.jpg"
+    },
+    {
+        "id": 36,
+        "nama": "Bromo Midnight Tour",
+        "alamat": "Probolinggo, Jawa Timur, Indonesia",
+        "deskripsi": "Bromo Midnight Tour adalah paket wisata yang memungkinkan pengunjung menyaksikan keindahan Gunung Bromo pada tengah malam.",
+        "foto": "image/midnighttour.jpg"
+    },
+    {
+        "id": 37,
+        "nama": "Pantai Wedi Ireng",
+        "alamat": "Banyuwangi, Jawa Timur, Indonesia",
+        "deskripsi": "Pantai Wedi Ireng terkenal dengan pasir hitamnya yang kontras dengan laut biru. Tempat yang tenang untuk menikmati keindahan alam.",
+        "foto": "image/wediireng.jpg"
+    },
+    {
+        "id": 38,
+        "nama": "Hutan Mangrove Wonorejo",
+        "alamat": "Surabaya, Jawa Timur, Indonesia",
+        "deskripsi": "Hutan Mangrove Wonorejo adalah kawasan konservasi mangrove yang memberikan pengalaman menyenangkan bagi pengunjung yang menyukai alam.",
+        "foto": "image/wonorejo.jpg"
+    },
+    {
+        "id": 39,
+        "nama": "Taman Ujung",
+        "alamat": "Karangasem, Bali, Indonesia",
+        "deskripsi": "Taman Ujung adalah taman air yang indah dengan arsitektur tradisional Bali. Pemandangan taman yang hijau dan kolam yang cantik menawan hati.",
+        "foto": "image/ujung.jpg"
+    },
+    {
+        "id": 40,
+        "nama": "Air Terjun Gitgit",
+        "alamat": "Singaraja, Bali, Indonesia",
+        "deskripsi": "Air Terjun Gitgit adalah salah satu air terjun tertinggi di Bali. Lokasinya yang tersembunyi memberikan nuansa petualangan.",
+        "foto": "image/gitgit.jpg"
+    },
+    {
+        "id": 41,
+        "nama": "Pulau Raja Ampat",
+        "alamat": "Raja Ampat, Papua Barat, Indonesia",
+        "deskripsi": "Pulau Raja Ampat terkenal sebagai salah satu destinasi penyelaman terbaik di dunia. Keindahan bawah lautnya sangat kaya akan kehidupan laut.",
+        "foto": "image/rajaampat.jpg"
+    },
+    {
+        "id": 42,
+        "nama": "Benteng Kuto Besak",
+        "alamat": "Palembang, Sumatera Selatan, Indonesia",
+        "deskripsi": "Benteng Kuto Besak adalah sisa-sisa benteng peninggalan sejarah di kota Palembang. Tempat ini menawarkan pandangan sejarah dan arsitektur yang menarik.",
+        "foto": "image/kutobesak.jpg"
+    },
+    {
+        "id": 43,
+        "nama": "Pulau Tidung",
+        "alamat": "Kepulauan Seribu, Jakarta, Indonesia",
+        "deskripsi": "Pulau Tidung merupakan salah satu pulau di Kepulauan Seribu yang terkenal dengan jembatan cinta. Tempat ini cocok untuk liburan romantis.",
+        "foto": "image/tidung.jpg"
+    },
+    {
+        "id": 44,
+        "nama": "Kota Tua Jakarta",
+        "alamat": "Jakarta, Indonesia",
+        "deskripsi": "Kota Tua Jakarta adalah pusat sejarah dan kebudayaan kota Jakarta. Bangunan-bangunan tua dan museum di sini menggambarkan masa lalu kolonial Indonesia.",
+        "foto": "image/kotatua.jpg"
+    },
+    {
+        "id": 45,
+        "nama": "Pantai Bama",
+        "alamat": "Balikpapan, Kalimantan Timur, Indonesia",
+        "deskripsi": "Pantai Bama adalah pantai indah di Balikpapan dengan pasir putih dan air laut yang jernih. Tempat ini sering menjadi destinasi liburan keluarga.",
+        "foto": "image/bama.jpg"
+    },
+    {
+        "id": 46,
+        "nama": "Pulau Pahawang",
+        "alamat": "Lampung, Sumatera, Indonesia",
+        "deskripsi": "Pulau Pahawang terkenal dengan keindahan terumbu karangnya. Aktivitas snorkeling dan diving di sini sangat populer di kalangan wisatawan.",
+        "foto": "image/pahawang.jpg"
+    },
+    {
+        "id": 47,
+        "nama": "Pantai Teluk Kiluan",
+        "alamat": "Tanggamus, Lampung, Indonesia",
+        "deskripsi": "Pantai Teluk Kiluan terkenal dengan keberadaan lumba-lumba di perairannya. Wisatawan dapat menikmati pemandangan laut yang indah dan interaksi dengan lumba-lumba.",
+        "foto": "image/kiluan.jpg"
+    },
+    {
+        "id": 48,
+        "nama": "Gunung Papandayan",
+        "alamat": "Garut, Jawa Barat, Indonesia",
+        "deskripsi": "Gunung Papandayan adalah gunung berapi yang terkenal dengan kawahnya yang aktif dan pemandangan alam yang menakjubkan.",
+        "foto": "image/papandayan.jpg"
+    },
+    {
+        "id": 49,
+        "nama": "Pulau Saronde",
+        "alamat": "Gorontalo, Sulawesi Utara, Indonesia",
+        "deskripsi": "Pulau Saronde dikenal dengan pantai pasir putihnya dan keindahan alam bawah laut yang memukau. Cocok untuk kegiatan bersantai.",
+        "foto": "image/saronde.jpg"
+    },
+    {
+        "id": 50,
+        "nama": "Taman Mini Indonesia Indah",
+        "alamat": "Jakarta, Indonesia",
+        "deskripsi": "Taman Mini Indonesia Indah adalah kompleks taman rekreasi yang menampilkan keberagaman budaya dan keindahan alam Indonesia dalam satu tempat.",
+        "foto": "image/tmii.jpg"
     }
-  ]
+]
