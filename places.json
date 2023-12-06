@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Pantai Kuta",
+      "photo": "images/kuta.jpg",
+      "description": "Pantai populer di Bali dengan pasir putih dan ombak yang indah."
+    },
+    {
+      "id": 2,
+      "name": "Candi Borobudur",
+      "photo": "images/borobudur.jpeg",
+      "description": "Candi Buddha terbesar di dunia, terletak di Magelang, Jawa Tengah."
+    }
+  ]
