@@ -4,7 +4,7 @@
         "nama": "Taman Nasional Bromo Tengger Semeru",
         "alamat": "Desa Ngadisari, Sukapura, Probolinggo, Jawa Timur, Indonesia",
         "deskripsi": "Taman Nasional Bromo Tengger Semeru adalah kawasan konservasi alam yang terkenal dengan keindahan gunung dan lautan pasirnya. Gunung Bromo menjadi daya tarik utama dengan pemandangan matahari terbit yang spektakuler.",
-        "foto": "image/bromo.jpg",
+        "foto": "https://picture.triptrus.com/image/2018/01/taman-nasional-bromo-tengger-semeru.jpeg",
         "latitude": -7.9425,
         "longitude": 112.9531
     },
@@ -13,7 +13,7 @@
         "nama": "Candi Borobudur",
         "alamat": "Magelang, Jawa Tengah, Indonesia",
         "deskripsi": "Candi Borobudur adalah candi Buddha terbesar di dunia, terletak di dataran tinggi Jawa Tengah. Candi ini terkenal dengan reliefnya yang indah dan arsitektur megahnya.",
-        "foto": "image/borobudur.jpg",
+        "foto": "https://fatek.umsu.ac.id/wp-content/uploads/2023/06/Candi-Borobudur-Makna-Yang-Terkandung-di-Dalamnya.jpg",
         "latitude": -7.6079,
         "longitude": 110.2036
     },
@@ -22,7 +22,7 @@
         "nama": "Pantai Kuta",
         "alamat": "Kuta, Badung, Bali, Indonesia",
         "deskripsi": "Pantai Kuta adalah salah satu pantai terkenal di Bali yang terkenal dengan ombaknya yang cocok untuk berselancar. Selain itu, pantai ini juga menawarkan pemandangan matahari terbenam yang memukau.",
-        "foto": "image/kuta.jpg",
+        "foto": "https://awsimages.detik.net.id/community/media/visual/2023/05/01/pantai-kuta_169.jpeg?w=1200",
         "latitude": -8.7183,
         "longitude": 115.1700
     },
