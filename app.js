@@ -6,9 +6,9 @@ app.get('/', (req, res) => {
   res.send('Welcome to Wisata API!');
 });
 app.get('/api/places', (req, res) => {
-    const id = req.query.id;
-  if (id) {
-    const filteredPlace = places.find(place => place.id == id);
+    const nama = req.query.nama;
+  if (nama) {
+    const filteredPlace = places.find(place => place.nama == nama);
     if (filteredPlace) {
       res.json(filteredPlace);
     } else {
