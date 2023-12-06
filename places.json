@@ -4,7 +4,7 @@
         "nama": "Taman Nasional Bromo Tengger Semeru",
         "alamat": "Desa Ngadisari, Sukapura, Probolinggo, Jawa Timur, Indonesia",
         "deskripsi": "Taman Nasional Bromo Tengger Semeru adalah kawasan konservasi alam yang terkenal dengan keindahan gunung dan lautan pasirnya. Gunung Bromo menjadi daya tarik utama dengan pemandangan matahari terbit yang spektakuler.",
-        "foto": "https://picture.triptrus.com/image/2018/01/taman-nasional-bromo-tengger-semeru.jpeg",
+        "foto": "https://asset.kompas.com/crops/dPkwR4TmPDlpOIKfXZ08S7IVDeQ=/0x0:1200x800/750x500/data/photo/2021/10/29/617b830f26293.png",
         "latitude": -7.9425,
         "longitude": 112.9531
     },
@@ -31,7 +31,7 @@
         "nama": "Danau Toba",
         "alamat": "Sumatera Utara, Indonesia",
         "deskripsi": "Danau Toba adalah danau vulkanik terbesar di dunia, terletak di Sumatera Utara. Pulau Samosir di tengah danau menambah pesona alam dan budaya yang khas.",
-        "foto": "image/toba.jpg",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Indonesia_-_Lake_Toba_%2826224127503%29.jpg",
         "latitude": 2.6400,
         "longitude": 98.8633
     },
@@ -40,7 +40,7 @@
         "nama": "Pulau Komodo",
         "alamat": "Labuan Bajo, Nusa Tenggara Timur, Indonesia",
         "deskripsi": "Pulau Komodo terkenal sebagai rumah bagi komodo, kadal terbesar di dunia. Selain itu, pulau ini menawarkan keindahan bawah laut yang memukau bagi para penyelam.",
-        "foto": "image/komodo.jpg",
+        "foto": "https://unair.ac.id/wp-content/uploads/2020/11/Ilustrasi-oleh-detikTravel.jpeg",
         "latitude": -8.5851,
         "longitude": 119.4417
     },
@@ -49,7 +49,7 @@
         "nama": "Goa Gong",
         "alamat": "Pacitan, Jawa Timur, Indonesia",
         "deskripsi": "Goa Gong adalah gua dengan formasi stalaktit dan stalagmit yang indah. Terkenal dengan keunikan suara 'gong' yang dihasilkan ketika stalaktit disentuh.",
-        "foto": "image/goagong.jpg",
+        "foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/850/2023/08/23/Goa-gong-pacitan-1754044520.jpeg",
         "latitude": -8.2684,
         "longitude": 111.1256
     },
@@ -58,7 +58,7 @@
         "nama": "Pulau Weh",
         "alamat": "Sabang, Aceh, Indonesia",
         "deskripsi": "Pulau Weh terletak di ujung barat Indonesia dan merupakan surga bagi penyelam. Terumbu karangnya yang indah dan keanekaragaman hayati laut membuatnya destinasi yang populer.",
-        "foto": "image/pulauweh.jpg",
+        "foto": "https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/24/2022/02/FOTO-LEAD-800X396-17.jpg",
         "latitude": 5.8530,
         "longitude": 95.3222
     },
@@ -67,7 +67,7 @@
         "nama": "Pantai Pink",
         "alamat": "Labuan Bajo, Nusa Tenggara Timur, Indonesia",
         "deskripsi": "Pantai Pink adalah pantai dengan pasir berwarna pink yang langka. Terletak di Pulau Komodo, pantai ini menawarkan pemandangan yang memesona.",
-        "foto": "image/pantai-pink.jpg",
+        "foto": "https://cdns.klimg.com/merdeka.com/i/w/news/2020/09/11/1219274/540x270/5-pantai-pink-di-indonesia-sudah-pernah-kunjungi-semuanya.jpg",
         "latitude": -8.4964,
         "longitude": 119.8877
     },
@@ -76,7 +76,7 @@
         "nama": "Candi Prambanan",
         "alamat": "Sleman, Yogyakarta, Indonesia",
         "deskripsi": "Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia. Candi ini terkenal dengan arsitektur yang megah dan relief kisah Ramayana.",
-        "foto": "image/prambanan.jpg",
+        "foto": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/09/19145201/candi-prambanan.jpeg",
         "latitude": -7.7516,
         "longitude": 110.4915
     },
@@ -85,7 +85,7 @@
         "nama": "Pantai Tanjung Bira",
         "alamat": "Bulukumba, Sulawesi Selatan, Indonesia",
         "deskripsi": "Pantai Tanjung Bira dikenal dengan pasir putihnya yang lembut dan air laut yang jernih. Lokasi ini cocok untuk bersantai dan menikmati keindahan laut.",
-        "foto": "image/tanjungbira",
+        "foto": "https://www.gocelebes.com/wp-content/uploads/2013/05/Tanjung-Bira-Bulukumba.jpg",
         "latitude": -5.5175,
         "longitude": 120.1928
     },
@@ -94,7 +94,7 @@
         "nama": "Pulau Seribu",
         "alamat": "Kepulauan Seribu, Jakarta, Indonesia",
         "deskripsi": "Pulau Seribu adalah gugusan pulau di lepas pantai Jakarta yang terkenal dengan keindahan pantai, terumbu karang, dan kegiatan wisata bahari.",
-        "foto": "image/pulau-seribu.jpg",
+        "foto": "https://www.pulautidung.co.id/wp-content/uploads/fakta-menarik-Pulau-Seribu-jakarta.jpg",
         "latitude": -5.6227,
         "longitude": 106.7875
     },
@@ -103,7 +103,7 @@
         "nama": "Candi Mendut",
         "alamat": "Magelang, Jawa Tengah, Indonesia",
         "deskripsi": "Candi Mendut adalah candi Buddha yang terletak tidak jauh dari Candi Borobudur. Candi ini memiliki arca Buddha besar di dalamnya.",
-        "foto": "image/mendut.jpg",
+        "foto": "https://www.bakpiamutiarajogja.com/wp-content/uploads/2016/12/Candi-Mendut-javatravel-2.jpg",
         "latitude": -7.6070,
         "longitude": 110.2090
     },
@@ -112,7 +112,7 @@
         "nama": "Pulau Ora",
         "alamat": "Maluku, Indonesia",
         "deskripsi": "Pulau Ora terkenal dengan pasir putihnya dan air laut yang jernih. Tempat ini merupakan destinasi yang cocok untuk berlibur dan menyelam.",
-        "foto": "image/pulau-ora.jpg",
+        "foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/02/18/ambon-pantai-1615946998.png",
         "latitude": -3.6067,
         "longitude": 128.1832
     },
@@ -121,7 +121,7 @@
         "nama": "Air Terjun Tumpak Sewu",
         "alamat": "Lumajang, Jawa Timur, Indonesia",
         "deskripsi": "Air Terjun Tumpak Sewu adalah salah satu air terjun tertinggi di Jawa Timur. Keindahan alam sekitar membuatnya menjadi tempat yang populer untuk hiking.",
-        "foto": "image/tumpak-sewu.jpg",
+        "foto": "https://asset-2.tstatic.net/travel/foto/bank/images/tumpak-sewu.jpg",
         "latitude": -8.1102,
         "longitude": 112.8781
     },
@@ -130,7 +130,7 @@
         "nama": "Pantai Parangtritis",
         "alamat": "Bantul, Yogyakarta, Indonesia",
         "deskripsi": "Pantai Parangtritis terkenal dengan pasir hitamnya dan legenda nyi Roro Kidul. Pantai ini menjadi tujuan wisata populer di Yogyakarta.",
-        "foto": "image/parangtritis.jpg",
+        "foto": "https://blog-images.reddoorz.com/uploads/ckeditor/pictures/3753/content_pantai_parangtritis.jpg",
         "latitude": -7.9659,
         "longitude": 110.3325
     },
@@ -139,7 +139,7 @@
         "nama": "Gunung Rinjani",
         "alamat": "Lombok, Nusa Tenggara Barat, Indonesia",
         "deskripsi": "Gunung Rinjani adalah gunung berapi tertinggi kedua di Indonesia. Pendakian ke puncaknya menawarkan pemandangan alam yang menakjubkan.",
-        "foto": "image/rinjani.jpg",
+        "foto": "https://rakyatempatlawang.disway.id/upload/ddc3a7c172a4984e1f2799214a289178.jpg",
         "latitude": -8.4113,
         "longitude": 116.4271
     },
@@ -148,7 +148,7 @@
         "nama": "Pulau Morotai",
         "alamat": "Maluku Utara, Indonesia",
         "deskripsi": "Pulau Morotai terkenal dengan keindahan bawah lautnya dan merupakan surga bagi penyelam. Terumbu karangnya yang indah menarik perhatian wisatawan.",
-        "foto": "image/morotai.jpg",
+        "foto": "https://www.jababekamorotai.com/wp-content/uploads/2019/08/1-1024x576.jpg",
         "latitude": 2.3376,
         "longitude": 128.4645
     },
@@ -157,7 +157,7 @@
         "nama": "Candi Sukuh",
         "alamat": "Karanganyar, Jawa Tengah, Indonesia",
         "deskripsi": "Candi Sukuh adalah candi Hindu dengan arsitektur unik dan relief yang menarik. Terletak di lereng Gunung Lawu.",
-        "foto": "image/sukuh.jpg",
+        "foto": "https://pesonakaranganyar.karanganyarkab.go.id/storage/images/2023-01-17/lZGQ3MTk1NjUxZDN.jpg",
         "latitude": -7.6255,
         "longitude": 111.1045
     },
@@ -166,7 +166,7 @@
         "nama": "Pulau Sumba",
         "alamat": "Sumba, Nusa Tenggara Timur, Indonesia",
         "deskripsi": "Pulau Sumba terkenal dengan budaya dan tradisi yang khas. Keindahan pantainya juga menjadi daya tarik bagi wisatawan.",
-        "foto": "image/sumba.jpg",
+        "foto": "https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Pulau-Sumba.jpg",
         "latitude": -9.5294,
         "longitude": 119.6153
     },
@@ -175,7 +175,7 @@
         "nama": "Air Terjun Madakaripura",
         "alamat": "Probolinggo, Jawa Timur, Indonesia",
         "deskripsi": "Air Terjun Madakaripura adalah air terjun tertinggi di Jawa Timur dan dikelilingi oleh tebing-tebing tinggi. Tempat ini cocok untuk pecinta alam dan petualang.",
-        "foto": "image/madakaripura.jpg",
+        "foto": "https://api2.kemenparekraf.go.id/storage/app/resources/shutterstock_2028749570_Purwanto_Nugroho_51509ef067.jpg",
         "latitude": -7.8479,
         "longitude": 113.9220
     },
