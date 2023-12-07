@@ -7,8 +7,10 @@ app.get('/', (req, res) => {
 });
 app.get('/api/places', (req, res) => {
     const nama = req.query.nama;
+
   if (nama) {
-    const filteredPlace = places.find(place => place.nama == nama);
+    const filteredPlace = places.find(place => place.nama === nama);
+
     if (filteredPlace) {
       res.json(filteredPlace);
     } else {

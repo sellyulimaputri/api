@@ -184,7 +184,7 @@
         "nama": "Pulau Bunaken",
         "alamat": "Bunaken, Sulawesi Utara, Indonesia",
         "deskripsi": "Pulau Bunaken terkenal dengan keindahan bawah lautnya. Terumbu karangnya yang indah membuatnya menjadi destinasi snorkeling dan diving yang populer.",
-        "foto": "image/bunaken.jpg",
+        "foto": "https://ik.imagekit.io/tvlk/blog/2020/01/keindahan-alam-indonesia-5-Super-Adventure.jpg?tr=dpr-2,w-675",
         "latitude": 1.6570,
         "longitude": 124.6859
     },
@@ -193,7 +193,7 @@
         "nama": "Kawah Ijen",
         "alamat": "Banyuwangi, Jawa Timur, Indonesia",
         "deskripsi": "Kawah Ijen terkenal dengan fenomena blue fire yang langka. Gunung berapi ini juga memiliki danau asam dengan pemandangan yang menakjubkan.",
-        "foto": "image/ijen.jpg",
+        "foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/05/596506158.png",
         "latitude": -8.0586,
         "longitude": 114.2426
     },
@@ -202,7 +202,7 @@
         "nama": "Pantai Papuma",
         "alamat": "Jember, Jawa Timur, Indonesia",
         "deskripsi": "Pantai Papuma terkenal dengan pasir putihnya yang lembut dan bebatuan karang yang unik. Pantai ini menyajikan pemandangan matahari terbit yang indah.",
-        "foto": "image/papuma.jpg",
+        "foto": "https://thumb.viva.co.id/media/frontend/thumbs3/2016/12/28/586333a053120-sepuluh-tempat-wisata-terindah-di-jember_1265_711.jpg",
         "latitude": -8.4261,
         "longitude": 114.3194
     },
@@ -211,7 +211,7 @@
         "nama": "Danau Ranau",
         "alamat": "Lampung, Sumatera, Indonesia",
         "deskripsi": "Danau Ranau adalah danau terbesar di Sumatera dengan pemandangan alam yang menawan. Tempat ini cocok untuk kegiatan rekreasi dan piknik.",
-        "foto": "image/ranau.jpg",
+        "foto": "https://www.goodnewsfromindonesia.id/uploads/post/large-danau-ranau-1b2af931e63fadd77e78cb5ced7cc3b6.jpg",
         "latitude": -4.4980,
         "longitude": 105.2195
     },
@@ -220,7 +220,7 @@
         "nama": "Bukit Teletubbies",
         "alamat": "Dieng, Jawa Tengah, Indonesia",
         "deskripsi": "Bukit Teletubbies di Dieng terkenal dengan lembah hijau dan bentuk bukit yang unik seperti di dalam film Teletubbies.",
-        "foto": "image/teletubbies.jpg",
+        "foto": "https://asset.kompas.com/crops/yG529roe12MpEGkQk7cEdBFD6sg=/0x0:1800x1200/780x390/data/photo/2021/05/10/609939a4dafef.jpg",
         "latitude": -7.2148,
         "longitude": 109.9149
     },
@@ -229,7 +229,7 @@
         "nama": "Pulau Derawan",
         "alamat": "Berau, Kalimantan Timur, Indonesia",
         "deskripsi": "Pulau Derawan adalah surganya penyelam dengan keindahan terumbu karang dan penyu-penyu yang berkeliaran di sekitarnya.",
-        "foto": "image/derawan.jpg",
+        "foto": "https://jadesta.kemenparekraf.go.id/imgpost/62567.jpg",
         "latitude": 2.3073,
         "longitude": 118.6345
     },
@@ -238,7 +238,7 @@
         "nama": "Kepulauan Togean",
         "alamat": "Sulawesi Tengah, Indonesia",
         "deskripsi": "Kepulauan Togean adalah destinasi wisata kepulauan yang menawarkan pantai cantik, terumbu karang, dan kehidupan laut yang beragam.",
-        "foto": "image/togean.jpg",
+        "foto": "https://wisato.id/wp-content/uploads/2023/09/kepulauan-togean-7.jpg",
         "latitude": -0.5326,
         "longitude": 121.9624
     },
@@ -247,7 +247,7 @@
         "nama": "Candi Ratuboko",
         "alamat": "Yogyakarta, Indonesia",
         "deskripsi": "Candi Ratuboko adalah situs arkeologi dengan pemandangan keraton yang megah dan arsitektur candi yang indah.",
-        "foto": "image/ratuboko.jpg",
+        "foto": "https://2.bp.blogspot.com/-duty4YGEWVQ/XDjGRrT7_sI/AAAAAAAABXE/QX9Cx0JEHKYVpIo_RKC4yz3_WGn25jBCQCLcBGAs/s1600/wisata%2Bcandi%2Bratu%2Bboko.jpg",
         "latitude": -7.7971,
         "longitude": 110.4290
     },
@@ -256,7 +256,7 @@
         "nama": "Pantai Maluk",
         "alamat": "Sumbawa, Nusa Tenggara Barat, Indonesia",
         "deskripsi": "Pantai Maluk terkenal dengan ombaknya yang cocok untuk berselancar. Pasir putihnya dan pemandangan laut yang indah menarik para pengunjung.",
-        "foto": "image/maluk.jpg",
+        "foto": "https://atourin.obs.ap-southeast-3.myhuaweicloud.com/images/destination/sumbawa/pantai-maluk-profile1645696397.png?x-image-process=image/resize,p_100,limit_1/imageslim",
         "latitude": -8.8442,
         "longitude": 116.5496
     },
@@ -265,7 +265,7 @@
         "nama": "Air Terjun Coban Rondo",
         "alamat": "Malang, Jawa Timur, Indonesia",
         "deskripsi": "Air Terjun Coban Rondo adalah air terjun yang terletak di kawasan Pujon, Malang. Keindahan alam sekitarnya menarik wisatawan untuk berkunjung.",
-        "foto": "image/cobanrondo.jpg",
+        "foto": "https://asset.kompas.com/crops/-lYxMA9YIQsyRZNMw7mJtkd0aSQ=/0x0:1149x766/780x390/data/photo/2021/08/25/6126168e3be6b.jpg",
         "latitude": -7.8690,
         "longitude": 112.5114
     },
@@ -274,7 +274,7 @@
         "nama": "Pulau Sikuai",
         "alamat": "Padang, Sumatera Barat, Indonesia",
         "deskripsi": "Pulau Sikuai dikenal dengan keindahan pantainya yang eksotis dan suasana yang tenang. Cocok untuk liburan santai.",
-        "foto": "image/sikuai.jpg",
+        "foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/02/06/701144238.jpg",
         "latitude": -0.7715,
         "longitude": 100.4623
     },
@@ -292,7 +292,7 @@
         "nama": "Pantai Tengah",
         "alamat": "Senggigi, Lombok, Nusa Tenggara Barat, Indonesia",
         "deskripsi": "Pantai Tengah adalah bagian dari pantai yang indah di Senggigi. Pasir putih dan ombak tenang menjadikannya tempat yang ideal untuk bersantai.",
-        "foto": "image/tengah.jpg",
+        "foto": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/09/Pulau-Tengah-Cover.jpg",
         "latitude": -8.5062,
         "longitude": 116.4049
     },
@@ -301,7 +301,7 @@
         "nama": "Danau Kelimutu",
         "alamat": "Ende, Nusa Tenggara Timur, Indonesia",
         "deskripsi": "Danau Kelimutu terkenal dengan tiga danau berwarna yang unik. Setiap danau memiliki warna yang berbeda-beda.",
-        "foto": "image/kelimutu.jpg",
+        "foto": "https://pariwisataindonesia.id/wp-content/uploads/2022/10/Pariwisata-Indonesia-Danau-Kelimutu-NTT.jpg",
         "latitude": -8.7661,
         "longitude": 121.8119
     },
@@ -310,7 +310,7 @@
         "nama": "Pulau Menjangan",
         "alamat": "Bali, Indonesia",
         "deskripsi": "Pulau Menjangan merupakan bagian dari Taman Nasional Bali Barat. Pulau ini terkenal dengan keindahan bawah lautnya yang sangat kaya akan terumbu karang.",
-        "foto": "image/menjangan.jpg",
+        "foto": "https://www.lintasnusa.id/wp-content/uploads/2021/10/pulau-menjangan.jpg",
         "latitude": -8.1548,
         "longitude": 114.5954
     },
@@ -319,7 +319,7 @@
         "nama": "Bromo Midnight Tour",
         "alamat": "Probolinggo, Jawa Timur, Indonesia",
         "deskripsi": "Bromo Midnight Tour adalah paket wisata yang memungkinkan pengunjung menyaksikan keindahan Gunung Bromo pada tengah malam.",
-        "foto": "image/midnighttour.jpg",
+        "foto": "https://beruangtravelmalang.com/tour/13814157448077189a4eed8eb.jpg",
         "latitude": -7.9425,
         "longitude": 112.9533
     },
@@ -328,7 +328,7 @@
         "nama": "Pantai Wedi Ireng",
         "alamat": "Banyuwangi, Jawa Timur, Indonesia",
         "deskripsi": "Pantai Wedi Ireng terkenal dengan pasir hitamnya yang kontras dengan laut biru. Tempat yang tenang untuk menikmati keindahan alam.",
-        "foto": "image/wediireng.jpg",
+        "foto": "https://upload.wikimedia.org/wikipedia/id/0/0c/Pantai-wedi-ireng.jpg",
         "latitude": -8.3677,
         "longitude": 114.3321
     },
@@ -337,7 +337,7 @@
         "nama": "Hutan Mangrove Wonorejo",
         "alamat": "Surabaya, Jawa Timur, Indonesia",
         "deskripsi": "Hutan Mangrove Wonorejo adalah kawasan konservasi mangrove yang memberikan pengalaman menyenangkan bagi pengunjung yang menyukai alam.",
-        "foto": "image/wonorejo.jpg",
+        "foto": "https://cdns.klimg.com/merdeka.com/i/w/news/2023/01/22/1514098/540x270/wisata-mangrove-surabaya-lengkap-dengan-harga-tiket-fasilitas-dan-jam-bukanya.jpg",
         "latitude": -7.1982,
         "longitude": 112.7580
     },
@@ -346,7 +346,7 @@
         "nama": "Taman Ujung",
         "alamat": "Karangasem, Bali, Indonesia",
         "deskripsi": "Taman Ujung adalah taman air yang indah dengan arsitektur tradisional Bali. Pemandangan taman yang hijau dan kolam yang cantik menawan hati.",
-        "foto": "image/ujung.jpg",
+        "foto": "https://a.cdn-hotels.com/gdcs/production10/d1026/dd734d87-db5a-4d15-aa15-bd3569063837.jpg",
         "latitude": -8.4830,
         "longitude": 115.6075
     },
@@ -355,7 +355,7 @@
         "nama": "Air Terjun Gitgit",
         "alamat": "Singaraja, Bali, Indonesia",
         "deskripsi": "Air Terjun Gitgit adalah salah satu air terjun tertinggi di Bali. Lokasinya yang tersembunyi memberikan nuansa petualangan.",
-        "foto": "image/gitgit.jpg",
+        "foto": "https://www.rentalmobilbali.net/wp-content/uploads/2023/07/Air-Terjun-Gitgit-Facebook.jpg",
         "latitude": -8.3546,
         "longitude": 115.2135
     },
@@ -364,7 +364,7 @@
         "nama": "Pulau Raja Ampat",
         "alamat": "Raja Ampat, Papua Barat, Indonesia",
         "deskripsi": "Pulau Raja Ampat terkenal sebagai salah satu destinasi penyelaman terbaik di dunia. Keindahan bawah lautnya sangat kaya akan kehidupan laut.",
-        "foto": "image/rajaampat.jpg",
+        "foto": "https://bnp.jambiprov.go.id/wp-content/uploads/2023/02/raja-ampat.png",
         "latitude": -0.3231,
         "longitude": 130.4900
     },
@@ -373,7 +373,7 @@
         "nama": "Benteng Kuto Besak",
         "alamat": "Palembang, Sumatera Selatan, Indonesia",
         "deskripsi": "Benteng Kuto Besak adalah sisa-sisa benteng peninggalan sejarah di kota Palembang. Tempat ini menawarkan pandangan sejarah dan arsitektur yang menarik.",
-        "foto": "image/kutobesak.jpg",
+        "foto": "https://awsimages.detik.net.id/community/media/visual/2023/05/22/benteng-kuto-besak-masih-berdiri-kokoh-meski-berusia-ratusan-tahun_169.jpeg?w=1200",
         "latitude": -2.9911,
         "longitude": 104.7590
     },
@@ -382,7 +382,7 @@
         "nama": "Pulau Tidung",
         "alamat": "Kepulauan Seribu, Jakarta, Indonesia",
         "deskripsi": "Pulau Tidung merupakan salah satu pulau di Kepulauan Seribu yang terkenal dengan jembatan cinta. Tempat ini cocok untuk liburan romantis.",
-        "foto": "image/tidung.jpg",
+        "foto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d0/46/4a/pulau-tidung.jpg?w=1200&h=1200&s=1",
         "latitude": -5.7469,
         "longitude": 106.5663
     },
@@ -391,7 +391,7 @@
         "nama": "Kota Tua Jakarta",
         "alamat": "Jakarta, Indonesia",
         "deskripsi": "Kota Tua Jakarta adalah pusat sejarah dan kebudayaan kota Jakarta. Bangunan-bangunan tua dan museum di sini menggambarkan masa lalu kolonial Indonesia.",
-        "foto": "image/kotatua.jpg",
+        "foto": "https://asset.kompas.com/crops/21QAQQA2r75BSzFFzJpwNHeIVe0=/43x0:895x568/750x500/data/photo/2023/09/27/6513a179e3201.jpg",
         "latitude": -6.1341,
         "longitude": 106.8135
     },
@@ -400,7 +400,7 @@
         "nama": "Pantai Bama",
         "alamat": "Balikpapan, Kalimantan Timur, Indonesia",
         "deskripsi": "Pantai Bama adalah pantai indah di Balikpapan dengan pasir putih dan air laut yang jernih. Tempat ini sering menjadi destinasi liburan keluarga.",
-        "foto": "image/bama.jpg",
+        "foto": "https://superlive.id/storage/articles/dd977e27-7251-4bec-8b1b-ab625385557b.jpg",
         "latitude": -1.1724,
         "longitude": 116.8294
     },
@@ -409,7 +409,7 @@
         "nama": "Pulau Pahawang",
         "alamat": "Lampung, Sumatera, Indonesia",
         "deskripsi": "Pulau Pahawang terkenal dengan keindahan terumbu karangnya. Aktivitas snorkeling dan diving di sini sangat populer di kalangan wisatawan.",
-        "foto": "image/pahawang.jpg",
+        "foto": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/events/2020/12/22/29331359-ec78-4ebe-9087-8db4794e0fb3-1608637978781-5a0ad5bccbbf38fc651915297ccad71b.jpg",
         "latitude": -5.8295,
         "longitude": 105.0995
     },
@@ -418,7 +418,7 @@
         "nama": "Pantai Teluk Kiluan",
         "alamat": "Tanggamus, Lampung, Indonesia",
         "deskripsi": "Pantai Teluk Kiluan terkenal dengan keberadaan lumba-lumba di perairannya. Wisatawan dapat menikmati pemandangan laut yang indah dan interaksi dengan lumba-lumba.",
-        "foto": "image/kiluan.jpg",
+        "foto": "https://img.inews.co.id/media/1200/files/inews_new/2023/04/12/Pantai_Teluk_Kiluan.jpg",
         "latitude": -5.7253,
         "longitude": 105.3699
     },
@@ -427,7 +427,7 @@
         "nama": "Gunung Papandayan",
         "alamat": "Garut, Jawa Barat, Indonesia",
         "deskripsi": "Gunung Papandayan adalah gunung berapi yang terkenal dengan kawahnya yang aktif dan pemandangan alam yang menakjubkan.",
-        "foto": "image/papandayan.jpg",
+        "foto": "https://pagguci.com/wp-content/uploads/2019/01/Gunung-Papandayan.jpg",
         "latitude": -7.3220,
         "longitude": 107.7344
     },
@@ -436,7 +436,7 @@
         "nama": "Pulau Saronde",
         "alamat": "Gorontalo, Sulawesi Utara, Indonesia",
         "deskripsi": "Pulau Saronde dikenal dengan pantai pasir putihnya dan keindahan alam bawah laut yang memukau. Cocok untuk kegiatan bersantai.",
-        "foto": "image/saronde.jpg",
+        "foto": "https://wartacelebes.id/wp-content/uploads/2023/05/maxresdefault-43-860x484.jpg",
         "latitude": 0.6372,
         "longitude": 122.6921
     },
@@ -445,7 +445,7 @@
         "nama": "Taman Mini Indonesia Indah",
         "alamat": "Jakarta, Indonesia",
         "deskripsi": "Taman Mini Indonesia Indah adalah kompleks taman rekreasi yang menampilkan keberagaman budaya dan keindahan alam Indonesia dalam satu tempat.",
-        "foto": "image/tmii.jpg",
+        "foto": "https://asset-2.tstatic.net/kaltim/foto/bank/images/instagram-aziss_abdul-istana-anak-anak-indonesia-tmii.jpg",
         "latitude": -6.3028,
         "longitude": 106.8925
     }
