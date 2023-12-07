@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nama": "Pulau Papua",
+        "foto": "https://www.blibli.com/friends-backend/wp-content/uploads/2022/05/Raja-Ampat-1.jpeg",
+        "latitude": -4.269928,
+        "longitude": 138.080353
+    },
+    {
+        "id": 2,
+        "nama": "Pulau Kalimantan",
+        "foto": "https://radarmukomuko.disway.id/upload/b7a9ff664d6992580825ee520c90b416.jpg",
+        "latitude": 1.068237,
+        "longitude": 114.233536
+    },
+    {
+        "id": 3,
+        "nama": "Pulau Sumatera",
+        "foto": "https://ik.imagekit.io/tvlk/blog/2020/02/pantai-di-sumatera-barat-1-iNews.jpg?tr=dpr-2,w-675",
+        "latitude": -0.589724,
+        "longitude": 101.3431058
+    },
+    {
+        "id": 4,
+        "nama": "Pulau Sulawesi",
+        "foto": "https://images.tokopedia.net/blog-tokopedia-com/uploads/2018/04/wisata-palu-10-Okezone.jpg",
+        "latitude": -2.1333328,
+        "longitude": 120.2833322
+    },
+    {
+        "id": 5,
+        "nama": "Pulau Jawa",
+        "foto": "https://soc-phoenix.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2018/07/13143459/Bali.jpg",
+        "latitude": -7.491667,
+        "longitude": 110.004444
+    },
+    {
+        "id": 6,
+        "nama": "Pulau Timor Timur",
+        "foto": "https://salamtimor.com/wp-content/uploads/2020/10/20201021_203428.jpg",
+        "latitude": -8.556856,
+        "longitude": 125.560310
+    },
+    {
+        "id": 7,
+        "nama": "Pulau Halmahera",
+        "foto": "https://exploremaluku.com/wp-content/uploads/2022/03/images-99.jpeg",
+        "latitude": -0.6980556,
+        "longitude": 127.8411111
+    },
+    {
+        "id": 8,
+        "nama": "Pulau Seram",
+        "foto": "https://images.tokopedia.net/blog-tokopedia-com/uploads/2019/01/wisata-pulau-seram-1-Wisataku.jpg",
+        "latitude": -3.8666669997095138,
+        "longitude": 130.833333
+    }
+]

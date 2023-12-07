@@ -2,8 +2,12 @@ const express = require('express');
 const app = express();
 const port = 3000;
 const places = require('./places.json');
+const pulau = require('./pulau.json');
 app.get('/', (req, res) => {
   res.send('Welcome to Wisata API!');
+});
+app.get('/api/pulau', (req, res) => {
+  res.json(pulau);
 });
 app.get('/api/places', (req, res) => {
     const nama = req.query.nama;
